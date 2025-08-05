@@ -1,0 +1,220 @@
+[
+    {
+        "employee_id": 101,
+        "name": "Alice Johnson",
+        "skills": [
+            {
+                "name": "AWS",
+                "level": "Expert"
+            },
+            {
+                "name": "Keycloak",
+                "level": "Intermediate"
+            },
+            {
+                "name": "Java",
+                "level": "Expert"
+            },
+            {
+                "name": "Terraform",
+                "level": "Intermediate"
+            },
+            {
+                "name": "Github Actions",
+                "level": "Intermediate"
+            },
+            {
+                "name": "Docker",
+                "level": "Expert"
+            },
+            {
+                "name": "Prometheus (metrics)",
+                "level": "Beginner"
+            },
+            {
+                "name": "Grafana (visualization)",
+                "level": "Intermediate"
+            },
+            {
+                "name": "RDBMS - Postgres, mysql",
+                "level": "Expert"
+            }
+        ]
+    },
+    {
+        "employee_id": 102,
+        "name": "Brian Smith",
+        "skills": [
+            {
+                "name": "Azure",
+                "level": "Expert"
+            },
+            {
+                "name": "Okta",
+                "level": "Intermediate"
+            },
+            {
+                "name": "NodeJS",
+                "level": "Beginner"
+            },
+            {
+                "name": "JUnit",
+                "level": "Expert"
+            },
+            {
+                "name": "Kubernetes (K8s)",
+                "level": "Intermediate"
+            },
+            {
+                "name": "Helm (K8s package manager)",
+                "level": "Intermediate"
+            },
+            {
+                "name": "OpenShift (Red Hat's K8s platform)",
+                "level": "Beginner"
+            },
+            {
+                "name": "Linux /bare metal",
+                "level": "Expert"
+            },
+            {
+                "name": "Shell script",
+                "level": "Expert"
+            },
+            {
+                "name": "Make",
+                "level": "Intermediate"
+            }
+        ]
+    },
+    {
+        "employee_id": 103,
+        "name": "Carla Mendes",
+        "skills": [
+            {
+                "name": "Auth0",
+                "level": "Intermediate"
+            },
+            {
+                "name": "EntraID",
+                "level": "Beginner"
+            },
+            {
+                "name": "GCP",
+                "level": "Expert"
+            },
+            {
+                "name": "RDBMS - Postgres, mysql",
+                "level": "Intermediate"
+            },
+            {
+                "name": "Github",
+                "level": "Intermediate"
+            },
+            {
+                "name": "Terraform",
+                "level": "Beginner"
+            },
+            {
+                "name": "Docker",
+                "level": "Intermediate"
+            },
+            {
+                "name": "AI Agents",
+                "level": "Expert"
+            },
+            {
+                "name": "IDP",
+                "level": "Beginner"
+            }
+        ]
+    },
+    {
+        "employee_id": 104,
+        "name": "David Liu",
+        "skills": [
+            {
+                "name": "AWS",
+                "level": "Intermediate"
+            },
+            {
+                "name": "AD",
+                "level": "Beginner"
+            },
+            {
+                "name": "Shell script",
+                "level": "Intermediate"
+            },
+            {
+                "name": "Java",
+                "level": "Expert"
+            },
+            {
+                "name": "Maven",
+                "level": "Expert"
+            },
+            {
+                "name": "Github Actions",
+                "level": "Intermediate"
+            },
+            {
+                "name": "Kubernetes (K8s)",
+                "level": "Intermediate"
+            },
+            {
+                "name": "Prometheus (metrics)",
+                "level": "Beginner"
+            },
+            {
+                "name": "Grafana (visualization)",
+                "level": "Intermediate"
+            },
+            {
+                "name": "RPA",
+                "level": "Beginner"
+            }
+        ]
+    },
+    {
+        "employee_id": 105,
+        "name": "Eva Rodriguez",
+        "skills": [
+            {
+                "name": "Linux /bare metal",
+                "level": "Intermediate"
+            },
+            {
+                "name": "Keycloak",
+                "level": "Beginner"
+            },
+            {
+                "name": "Azure",
+                "level": "Expert"
+            },
+            {
+                "name": "OpenShift (Red Hat's K8s platform)",
+                "level": "Intermediate"
+            },
+            {
+                "name": "Terraform",
+                "level": "Expert"
+            },
+            {
+                "name": "Generative AI & LLMs",
+                "level": "Expert"
+            },
+            {
+                "name": "SAP",
+                "level": "Beginner"
+            },
+            {
+                "name": "Github",
+                "level": "Intermediate"
+            },
+            {
+                "name": "JUnit",
+                "level": "Intermediate"
+            }
+        ]
+    }
+]

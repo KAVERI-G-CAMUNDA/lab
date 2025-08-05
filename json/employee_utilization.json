@@ -1,0 +1,47 @@
+[
+    {
+        "employee_id": 101,
+        "name": "Alice Johnson",
+        "utilization": {
+            "2025-06": "75%",
+            "2025-07": "65%",
+            "2025-08": "80%"
+        }
+    },
+    {
+        "employee_id": 102,
+        "name": "Brian Smith",
+        "utilization": {
+            "2025-06": "50%",
+            "2025-07": "70%",
+            "2025-08": "60%"
+        }
+    },
+    {
+        "employee_id": 103,
+        "name": "Carla Mendes",
+        "utilization": {
+            "2025-06": "55%",
+            "2025-07": "75%",
+            "2025-08": "70%"
+        }
+    },
+    {
+        "employee_id": 104,
+        "name": "David Liu",
+        "utilization": {
+            "2025-06": "80%",
+            "2025-07": "78%",
+            "2025-08": "75%"
+        }
+    },
+    {
+        "employee_id": 105,
+        "name": "Eva Rodriguez",
+        "utilization": {
+            "2025-06": "60%",
+            "2025-07": "65%",
+            "2025-08": "55%"
+        }
+    }
+]

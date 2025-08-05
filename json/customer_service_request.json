@@ -1,0 +1,16 @@
+{
+    "csr_id": "CSR-2025-00123",
+    "customer_name": "Acme Corp",
+    "request_date": "2025-08-05",
+    "request_details": {
+        "product": "Camunda 8 Self-Managed",
+        "deployment_environment": "AWS EKS",
+        "usage_duration": "Using since 2024",
+        "issue_summary": "Performance degradation in Camunda Operate",
+        "issue_description": "The customer is experiencing delays in viewing process instances in Camunda Operate. After starting a process, the instance does not appear immediately in the Operate UI. The issue has been intermittent but has recently become more frequent, affecting user visibility and monitoring.",
+        "urgency": "High",
+        "requested_assistance": "Performance analysis and resolution of latency issue in Camunda Operate UI"
+    },
+    "status": "Open",
+    "assigned_to": "Support Team A"
+}
