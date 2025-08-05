@@ -2,6 +2,7 @@
     {
         "employee_id": 101,
         "name": "Alice Johnson",
+        "email_id": "reach.kaveri.g@gmail.com",
         "skills": [
             {
                 "name": "AWS",
@@ -44,6 +45,7 @@
     {
         "employee_id": 102,
         "name": "Brian Smith",
+        "email_id": "reach.kaveri.g@gmail.com",
         "skills": [
             {
                 "name": "Azure",
@@ -90,6 +92,7 @@
     {
         "employee_id": 103,
         "name": "Carla Mendes",
+        "email_id": "reach.kaveri.g@gmail.com",
         "skills": [
             {
                 "name": "Auth0",
@@ -132,6 +135,7 @@
     {
         "employee_id": 104,
         "name": "David Liu",
+        "email_id": "reach.kaveri.g@gmail.com",
         "skills": [
             {
                 "name": "AWS",
@@ -178,6 +182,7 @@
     {
         "employee_id": 105,
         "name": "Eva Rodriguez",
+        "email_id": "reach.kaveri.g@gmail.com",
         "skills": [
             {
                 "name": "Linux /bare metal",

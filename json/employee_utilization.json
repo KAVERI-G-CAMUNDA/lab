@@ -2,6 +2,7 @@
     {
         "employee_id": 101,
         "name": "Alice Johnson",
+        "email_id": "reach.kaveri.g@gmail.com",
         "utilization": {
             "2025-06": "75%",
             "2025-07": "65%",
@@ -11,6 +12,7 @@
     {
         "employee_id": 102,
         "name": "Brian Smith",
+        "email_id": "reach.kaveri.g@gmail.com",
         "utilization": {
             "2025-06": "50%",
             "2025-07": "70%",
@@ -20,6 +22,7 @@
     {
         "employee_id": 103,
         "name": "Carla Mendes",
+        "email_id": "reach.kaveri.g@gmail.com",
         "utilization": {
             "2025-06": "55%",
             "2025-07": "75%",
@@ -29,6 +32,7 @@
     {
         "employee_id": 104,
         "name": "David Liu",
+        "email_id": "reach.kaveri.g@gmail.com",
         "utilization": {
             "2025-06": "80%",
             "2025-07": "78%",
@@ -38,6 +42,7 @@
     {
         "employee_id": 105,
         "name": "Eva Rodriguez",
+        "email_id": "reach.kaveri.g@gmail.com",
         "utilization": {
             "2025-06": "60%",
             "2025-07": "65%",
